@@ -4,6 +4,4 @@ This repository was created for Master's Degree in Computer Science admission 20
 
 ## Contributor
 
-| Name | GitHub |
-|---------------------------|--------------------------|-------------------------------------------------------|
 | Jirawadee Sampusri | [JirawadeeSampusri](https://github.com/JirawadeeSampusri) |
